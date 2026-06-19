@@ -1,0 +1,2 @@
+This is the file created from visual studio code
+Added new line
